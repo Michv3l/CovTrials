@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SARS-CoV-3</string>
+    <string name="logtag">Please enter your login details</string>
+    <string name="nSpray">Please enter Nasal Spray Details</string>
+    <string name="vGroup">Vaccine Group:</string>
+    <string name="dose">Dose:</string>
+    <string name="sprayLink">Click here to enter your Nasal Spray Details</string>
+    <string name="reqPos">Please click button below if you have tested positive</string>
+</resources>
